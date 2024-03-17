@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- generated on 2024-03-18 01:35:53 by Eclipse SUMO netedit Version 1.19.0
+<!-- generated on 2024-03-17 20:02:06 by Eclipse SUMO netedit Version 1.19.0
 -->
 
 <additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
     <!-- StoppingPlaces -->
     <busStop id="bs_0" name="susonoeki" lane="686912267#1_0" startPos="0.00" lines="tomizawatouennjyunnkann"/>
-    <busStop id="bs_1" name="minesitairiguti" lane="-714993864#4_0" startPos="30.00" endPos="40.00" friendlyPos="true" lines="tomizawatouennjyunnkann" personCapacity="20" parkingLength="10.00"/>
+    <busStop id="bs_1" name="susonoeki" lane="-714993864#4_0" startPos="30.00" endPos="40.00" friendlyPos="true" lines="tomizawatouennjyunnkann" personCapacity="20" parkingLength="10.00"/>
     <busStop id="bs_10" name="susononihonnmatuii" lane="-344547180#1_0" startPos="-1.00" endPos="9.00" friendlyPos="true" lines="tomizawatouennjyunnkann" personCapacity="20" parkingLength="10.00"/>
     <busStop id="bs_11" name="hanazonobasi" lane="344337688#0_0" startPos="99.32" endPos="109.32" friendlyPos="true" lines="tomizawatouennjyunnkann" personCapacity="20" parkingLength="10.00"/>
     <busStop id="bs_12" name="tomizawaue" lane="344337707#0_0" startPos="59.29" endPos="69.29" friendlyPos="true" lines="tomizawatouennjyunnkann" personCapacity="20" parkingLength="10.00"/>
@@ -27,6 +27,6 @@
     <busStop id="bs_5" name="susonoyubinnkyokumae" lane="-972770700#2_0" startPos="6.41" endPos="16.41" friendlyPos="true" lines="tomizawatouennjyunnkann" personCapacity="20" parkingLength="10.00"/>
     <busStop id="bs_6" name="susonokoukouiriguti" lane="-618466892#0_0" startPos="64.86" endPos="74.86" friendlyPos="true" lines="tomizawatouennjyunnkann" personCapacity="20" parkingLength="10.00"/>
     <busStop id="bs_7" name="sano" lane="-36725831#1_0" startPos="8.31" endPos="18.31" friendlyPos="true" lines="tomizawatouennjyunnkann" personCapacity="20" parkingLength="10.00"/>
-    <busStop id="bs_8" name="susononisisyougakkouiriguti" lane="-622710149#3_0" startPos="40.00" endPos="50.00" friendlyPos="true" lines="tomizawatouennjyunnkann" personCapacity="20" parkingLength="10.00"/>
+    <busStop id="bs_8" name="susononisisyougakkouiriguti" lane="622710144#1_0" startPos="3.42" endPos="13.42" friendlyPos="true" lines="tomizawatouennjyunnkann" personCapacity="20" parkingLength="10.00"/>
     <busStop id="bs_9" name="susononihonnmatuii" lane="-735030182#9_0" startPos="60.00" endPos="70.00" friendlyPos="true" lines="tomizawatouennjyunnkann" personCapacity="20" parkingLength="10.00"/>
 </additional>
