@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
+22220-8,裾野市,http://www.city.susono.shizuoka.jp/,Asia/Tokyo,ja,055-995-1805,http://www.city.susono.shizuoka.jp/ss/access/susonooru.php

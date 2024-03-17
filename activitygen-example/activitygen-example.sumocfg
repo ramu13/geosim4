@@ -1,0 +1,17 @@
+<configuration>
+    <input>
+        <net-file value="activitygen-example.net.xml"/>
+        <route-files value="activitygen-example.rou.xml"/>
+    </input>
+    <output>
+        <emission-output value="emi_out"/>
+        <fcd-output value="fcd_out"/>
+    </output>
+    <time>
+        <begin value="0"/>
+        <end value="10000"/>
+    </time>
+    <!-- <processing>
+        <time-to-teleport value="teleport"/>
+    </processing> -->
+</configuration>

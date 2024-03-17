@@ -1,0 +1,26 @@
+<ptline id="ptLine1" name="ptLine1_name" type="bus" vClass="busClass" line="tomizawatouennjyunnkann">
+        <busStop id="bs_0" name="susonoeki"/>
+        <busStop id="bs_1" name="susonoeki"/>
+        <busStop id="bs_2" name="houkairiguti"/>
+        <busStop id="bs_3" name="itiritusuzukitosyokanniriguti"/>
+        <busStop id="bs_4" name="susonoakajyuujibyouinn"/>
+        <busStop id="bs_5" name="susonoyubinnkyokumae"/>
+        <busStop id="bs_6" name="susonokoukouiriguti"/>
+        <busStop id="bs_7" name="sano"/>
+        <busStop id="bs_8" name="susononisisyougakkouiriguti"/>
+        <busStop id="bs_9" name="susononihonnmatuii"/>
+        <busStop id="bs_10" name="susononihonnmatuii"/>
+        <busStop id="bs_11" name="hanazonobasi"/>
+        <busStop id="bs_12" name="tomizawaue"/>
+        <busStop id="bs_13" name="tomizawanaka"/>
+        <busStop id="bs_14" name="tomizawa"/>
+        <busStop id="bs_15" name="touenn"/>
+        <busStop id="bs_16" name="sinnaitakabasi"/>
+        <busStop id="bs_17" name="tomiii"/>
+        <busStop id="bs_18" name="isuibasi"/>
+        <busStop id="bs_19" name="minamisyougakkoumaei"/>
+        <busStop id="bs_20" name="mugidukaguti"/>
+        <busStop id="bs_21" name="mitubisimae"/>
+        <busStop id="bs_22" name="hiramatu"/>
+        <busStop id="bs_23" name="sanohara"/>
+</ptline>

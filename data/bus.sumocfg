@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration>
+   <input>
+       <net-file value="osm.net.xml"/>
+       <route-files value="bus.hand.rou.xml"/>
+       <additional-files value="bus.hand.stop.xml"/>
+   </input>
+   <time>
+        <begin value="0"/>
+        <end value="10000"/>
+   </time>
+</configuration>
