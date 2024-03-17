@@ -3,7 +3,8 @@
 <configuration>
    <input>
        <net-file value="osm.net.xml"/>
-       <route-files value="bus.hand.rou.xml"/>
+       <!-- <route-files value="bus.hand.rou.xml"/> -->
+       <route-files value="TEST.xml"/>
        <additional-files value="bus.hand.stop.xml"/>
    </input>
    <time>
