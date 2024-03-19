@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--使う時はosm.net.xmlを同じ階層へ移動-->
+<configuration>
+   <input>
+       <net-file value="osm.net.xml"/>
+       <!-- <route-files value="bus.hand.flow.xml"/> -->
+       <route-files value="TEST.xml"/>
+       <additional-files value="bus.hand.stop.xml"/>
+   </input>
+   <time>
+        <begin value="0"/>
+        <end value="10000"/>
+   </time>
+</configuration>

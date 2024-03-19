@@ -6,7 +6,7 @@
     <input>
         <net-file value="osm.net.xml"/>
         <additional-files value="bus.hand.stop.xml"/>
-        <route-files value="bus.hand.rou.xml"/>
+        <route-files value="bus.hand.flow.xml"/>
     </input>
 
     <output>
