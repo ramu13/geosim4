@@ -1,0 +1,6 @@
+        <personTrip fromTaz="116_57" toTaz="120_65" modes="public"/>
+<data xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://sumo.dlr.de/xsd/datamode_file.xsd">
+    <interval id="person" begin="0" end="5000">
+      <tazRelation count="10000" from="76_18" to="86_72"/>
+    </interval>
+</data>
