@@ -3,8 +3,8 @@
 <configuration>
    <input>
        <net-file value="osm.net.xml"/>
-       <route-files value="person.rou.xml"/> <!-- failed -->
-       <!-- <route-files value="person.flow.xml"/> passed -->
+       <route-files value="grid.taz.rou.xml"/> <!-- failed -->
+       <!-- <route-files value="person.planed.flow.xml"/> passed -->
        <additional-files value="grid.taz.add.xml,bus.stop.add.xml"/>
    </input>
    <time>
